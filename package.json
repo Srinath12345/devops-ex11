@@ -1,0 +1,14 @@
+{
+  "name": "devops-ex11",
+  "version": "1.0.0",
+  "description": "Applying CI/CD Principles for NodeJS Application Using Jenkins, Git, using Docker Containers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
